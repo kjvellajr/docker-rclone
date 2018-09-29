@@ -1,6 +1,6 @@
-FROM alpine:3.5
+FROM alpine:3.8
 
-MAINTAINER Philipp Schmitt <philipp@schmitt.co>
+MAINTAINER Ken Vella <kjvelljr@gmail.com>
 
 ENV RCLONE_VERSION=current
 ENV ARCH=amd64
